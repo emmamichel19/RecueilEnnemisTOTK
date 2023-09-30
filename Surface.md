@@ -10,7 +10,7 @@
 
 
 
-Dans cette zone, vous retrouverez:
+### Dans cette zone, vous retrouverez:
 
 * Les Bokoblins
 >* Les Bokoblins bleus
