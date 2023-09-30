@@ -17,7 +17,14 @@ Dans cette zone, vous retrouverez:
 >* Les Bokoblins noirs
 >* Les Bokoblins d'argent
 
+
 * Les Chefs Boko
 >* Les Chefs Boko bleus
 >* Les Chefs Boko noirs
 >* Les Chefs Boko d'argent
+
+
+* Les Chuchus
+>* Les Chuchus de feu
+>* Les Chuchus de glace
+>* Les Chuchus électriques
