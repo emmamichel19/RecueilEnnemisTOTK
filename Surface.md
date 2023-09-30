@@ -16,6 +16,7 @@ Dans cette zone, vous retrouverez:
 >* Les Bokoblins bleus
 >* Les Bokoblins noirs
 >* Les Bokoblins d'argent
+>* Les Stalbokoblins
 
 
 * Les Chefs Boko
@@ -28,3 +29,131 @@ Dans cette zone, vous retrouverez:
 >* Les Chuchus de feu
 >* Les Chuchus de glace
 >* Les Chuchus électriques
+
+
+* Les Golems soldats
+>* Les Golems caporals
+>* Les Golems sergents
+>* Les Golems majors
+>* Les Golems lieutenants
+>* Les Golems capitaines
+>* Les Golems commandants
+>* Les Golems colonels
+
+
+* Les Tronc-peurs
+
+
+* Les Trogloblins
+>* Les Trogloblins bleus
+>* Les Trogloblins noirs
+>* Les Trogloblins d'argent
+
+
+* Les Chauve-souris
+>* Les Chauve-souris de feu
+>* Les Chauves-souris de glace
+>* Les Chauve-souris électrique
+
+
+* Les Like-likes
+>* Les Pyrolikes
+>* Les Cryolikes
+>* Les Electrolikes
+>* Les Litholikes
+>* Les Like-likes de vase
+
+
+* Les Lézalfos
+>* Les Lézalfos bleus
+>* Les Lézalfos noirs
+>* Les Lézalfos d'argent
+>* Les Lézalfos électrique
+>* Les Stalézafos
+>* Les Lézalfos de feu
+>* Les Lézalfos de glace
+
+
+* Les Lynels
+>* Les Lynels bleus
+>* Les Lynels blancs
+>* Les Lynels d'argent
+
+
+* Les Moblins
+>* Les Moblins bleus
+>* Les Moblins noirs
+>* Les Moblins d'argent
+>* Les Stalmoblins
+
+
+* Les Octoroks
+>* Les Octoflots
+>* Les Octopierres
+>* Les Octocoffres
+>* Les Octobuissons
+>* Les Octoneiges
+
+
+* Les Sorciers
+>* Les Sorciers de feu
+>* Les Sorciers électriques
+>* Les Sorciers de glace
+>* Les Sorciers blizzaro
+>* Les Sorciers fulguro
+>* Les Sorciers brasero
+
+
+* Les Kakudas
+
+
+* Les Gibdos
+>* Les Gibdos ailés
+
+
+* Les Golemax
+>* Les Golemax améliorés
+>* Les Golemax ultimes
+
+
+* Les Yigas
+>* Les sous-fifres Yiga
+>* Les officiers Yiga
+
+
+* Les Lithorocks
+>* Les Lithorocks nox
+>* Les Lithorocks rares
+>* Les Lithorocks fortifiés
+>* Les Lithorocks magrok
+>* Les Lithorocks cryorok
+
+
+* Les Tilhoroks
+>* Les migroks
+>* Les givroks
+
+
+* Les Hinox
+>* Les Hinox bleus
+>* Les Hinox noirs
+>* Les Stalhinox
+
+
+* Les Moldarquor
+
+
+* Les Griocks
+>* Les Griocks des flammes
+>* Les Griocks des glaces
+>* Les Griocks électriques
+>* Le roi Griock
+
+
+* Angania
+
+
+* La reine Gibdo
+
+
+* Les fantômes de Ganon
