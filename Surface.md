@@ -12,10 +12,10 @@
 
 Dans cette zone, vous retrouverez:
 
-*Les Bokoblins
--Les Bokoblins bleus
--Les Bokoblins noirs
--Les Bokoblins d'argent
+* Les Bokoblins
+- Les Bokoblins bleus
+- Les Bokoblins noirs
+- Les Bokoblins d'argent
 
 >Les Chefs Boko
 >>Les Chefs Boko bleus
