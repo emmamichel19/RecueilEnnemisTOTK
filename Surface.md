@@ -4,3 +4,15 @@
 ### Commençons par la surface
 
 ![SURFACE](https://github.com/emmamichel19/RecueilEnnemisTOTK/assets/144808143/a2e66258-e1fa-4d43-875e-e1df5e57188e)
+
+Dans cette zone, vous retrouverez:
+
+>Les Bokoblins
+>>Les Bokoblins bleus
+>>Les Bokoblins noirs
+>>Les Bokoblins d'argent
+
+>Les Chefs Boko
+>>Les Chefs Boko bleus
+>>Les Chefs Boko noirs
+>>Les Chefs Boko d'argent
