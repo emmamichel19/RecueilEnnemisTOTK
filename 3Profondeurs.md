@@ -123,4 +123,4 @@
 
 * Les fantômes de Ganon
 
-* Ganondorf
+* Ganondorf, roi démon
