@@ -47,3 +47,6 @@
 
 
 * Les fantômes de Ganon
+
+[Ennemis à la suface](index.md)
+[Ennemis dans les profondeurs](Profondeurs.md)
