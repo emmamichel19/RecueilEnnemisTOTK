@@ -4,11 +4,7 @@ Merci à [Kiraniko](https://zelda.kiranico.com/fr-CA) pour l'encyclopédie compl
 
 ### Commençons par la surface
 
-![SURFACE](https://github.com/emmamichel19/RecueilEnnemisTOTK/assets/144808143/a2e66258-e1fa-4d43-875e-e1df5e57188e)
-
-
-
-
+![SURFACE](https://github.com/emmamichel19/RecueilEnnemisTOTK/assets/144808143/3d74ee01-87f3-4e88-9874-2ac2799e9df8)
 
 
 ### Dans cette zone, vous retrouverez:
