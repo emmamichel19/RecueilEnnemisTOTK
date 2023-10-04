@@ -154,6 +154,9 @@ Merci à [Kiraniko](https://zelda.kiranico.com/fr-CA) pour l'encyclopédie compl
 
 * Les fantômes de Ganon
 
+------------------------------------------
 
-[Ennemis dans le ciel](Ciel.md)        
+[Ennemis dans le ciel](Ciel.md)
+
+
 [Ennemis dans les profondeurs](Profondeurs.md)
