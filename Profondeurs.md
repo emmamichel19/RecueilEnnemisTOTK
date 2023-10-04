@@ -1,6 +1,6 @@
 ## Enfin, voici les ennemis que vous pouvez retrouver dans les profondeurs
 
-![PROFONDEURS](https://github.com/emmamichel19/RecueilEnnemisTOTK/assets/144808143/0c9ebf6b-279d-434d-812b-fc606e2d30e5)
+![PROFONDEURS](https://github.com/emmamichel19/RecueilEnnemisTOTK/assets/144808143/03ce9b5a-d5f5-4346-b819-66e14cf7ef9b)
 
 * Les Bokoblins
 >* Les Bokoblins bleus
