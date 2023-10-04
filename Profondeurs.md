@@ -124,3 +124,6 @@
 * Les fantômes de Ganon
 
 * Ganondorf, roi démon
+
+[Ennemis à la surface](index.md)
+[Ennemis dans le ciel](Ciel.md)
