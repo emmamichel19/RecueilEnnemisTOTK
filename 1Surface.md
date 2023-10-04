@@ -107,8 +107,7 @@
 * Les Kakudas
 
 
-* Les Gibdos
->* Les Gibdos ailés
+* Les Gibdos et les Gibdos ailés
 
 
 * Les Golemax
