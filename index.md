@@ -153,3 +153,6 @@ Merci à [Kiraniko](https://zelda.kiranico.com/fr-CA) pour l'encyclopédie compl
 
 
 * Les fantômes de Ganon
+
+
+[Ciel](Profondeurs.md)
